@@ -4,11 +4,6 @@
    เปลี่ยนสี: แก้ตัวแปรด้านล่าง หรือใส่ style="--ln-acc:#7be0ff" ที่ .lmnn ของแต่ละประกาศ
    หรือใช้คลาสสำเร็จรูป is-alert / is-warning / is-info / is-clear */
 .lmnn{
-  --ln-acc:#ff5fa8;   /* สีหลัก: กรอบมุม แถบหัว ตัวเลข ตราประทับ */
-  --ln-bg:#131313;    /* พื้นหลัง */
-  --ln-txt:#f2e3ec;   /* สีตัวอักษร */
-  --ln-on:#12080e;    /* สีตัวอักษรบนแถบสีหลัก (ถ้าใช้สีหลักเข้ม ให้เปลี่ยนเป็นสีอ่อน) */
-  --ln-warn:#ffd35f;  /* สีกล่องหมายเหตุ */
   --ln-line:color-mix(in srgb,var(--ln-acc) 42%,#1c1c1c);
   --ln-dim:color-mix(in srgb,var(--ln-txt) 58%,transparent);
   --ln-panel:color-mix(in srgb,var(--ln-acc) 7%,var(--ln-bg));

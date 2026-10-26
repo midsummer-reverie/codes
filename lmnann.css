@@ -47,7 +47,7 @@
 .lmnn-meta div{padding:10px 16px;border-left:1px dashed var(--ln-line)}
 .lmnn-meta div:first-child{border-left:0}
 .lmnn-meta small{display:block;font-size:16px;letter-spacing:.22em;color:var(--ln-dim);text-transform:uppercase}
-.lmnn-meta b{display:block;font-size:16px;font-weight:600;line-height:1.5;font-variant-numeric:tabular-nums}
+.lmnn-meta b{display:block;font-size:20px;font-weight:600;line-height:1.5;font-variant-numeric:tabular-nums}
 
 /* หัวข้อและเนื้อหา */
 .lmnn-title{margin:30px 0 6px;font-size:38px;font-weight:700;line-height:1.35;text-wrap:balance}

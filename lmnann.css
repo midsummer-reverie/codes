@@ -92,7 +92,7 @@
 /* ท้ายเอกสาร */
 .lmnn-foot{display:flex;align-items:center;justify-content:space-between;gap:20px;margin-top:22px;padding-top:14px;border-top:1px dashed var(--ln-line);
   font-size:15px;letter-spacing:.16em;color:var(--ln-dim);text-transform:uppercase}
-.lmnn-bars{flex:none;width:150px;height:24px;opacity:.7;
+.lmnn-bars{flex:none;width:200px;height:24px;opacity:.7;
   background:repeating-linear-gradient(90deg,var(--ln-txt) 0 2px,transparent 2px 5px,var(--ln-txt) 5px 6px,transparent 6px 8px,var(--ln-txt) 8px 11px,transparent 11px 13px)}
 
 /* สีสำเร็จรูปตามระดับประกาศ */
